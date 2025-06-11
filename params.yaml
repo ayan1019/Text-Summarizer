@@ -1,0 +1,5 @@
+data_ingestion:
+  root_dir: data/raw
+  source_URL: https://example.com/data.zip
+  local_data_file: data/local/data.zip
+  unzip_dir: data/extracted

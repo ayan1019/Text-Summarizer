@@ -174,3 +174,13 @@ cython_debug/
 .pypirc
 
 artifacts/*
+.DS_Store
+outputs/
+__pycache__/
+*.pyc
+outputs/
+
+.DS_Store
+__pycache__/
+*.pyc
+outputs/

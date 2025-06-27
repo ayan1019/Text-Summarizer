@@ -39,7 +39,7 @@ open up you local host and port
 ```bash
 Author: Ayan Yadav
 Data Scientist
-Email: krishnaik06@gmail.com
+Email: ayanyadav2619@gmail.com
 
 ```
 
